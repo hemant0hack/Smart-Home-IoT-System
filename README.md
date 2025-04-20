@@ -15,6 +15,11 @@ This project delivers a comprehensive smart home solution powered by the ESP32 m
 - **Automated Relay Control** with scheduling capabilities.
 - **Motion Detection** and **Gas Monitoring** for enhanced safety.
 - **Real-Time Dashboard Updates** for live monitoring and control.
+## 🌐 Virtual Project
+
+Explore the virtual project details and implementation:
+
+- 🔗 **Project Link**: <a href="https://github.com/Hemant0hack/Virtual_project" target="_blank">Virtual Project Repository</a>
 
 ## 🧠 Key Features
 

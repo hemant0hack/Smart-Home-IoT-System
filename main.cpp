@@ -1,7 +1,7 @@
-// Project: Smart Home IoT System
+// Project: Smart_Home_IoT_System
+// Author: Hemant Rathore
 // Description: This code implements a smart home IoT system using ESP32, WiFi, MQTT, IR remote control, DHT sensor, motion sensor, and MQ2 gas sensor.
 // Created Date: 2025-04-11
-// Author: Hemant Rathore
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <IRremote.h>
