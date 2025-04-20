@@ -19,7 +19,7 @@ This project delivers a comprehensive smart home solution powered by the ESP32 m
 
 Explore the virtual project details and implementation:
 
-- 🔗 **Project Link**: <a href="https://github.com/Hemant0hack/Virtual_project" target="_blank">Virtual Project Repository</a>
+- 🔗 **Project Link**: <a href="https://github.com/hemant0hack/Smart-Home-IoT-System/tree/main/Virtual_project" target="_blank">Virtual Project Repository</a>
 
 ## 🧠 Key Features
 
